@@ -1,21 +1,26 @@
 # Project 3: Spots
 
-### Overview  
+### Overview
 
-* Intro  
-* Figma  
-* Images  
-  
+- Intro
+- Figma
+- Images
+
 **Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+
+The name of this project is se_project_spots. To describe this as I understand it from the lessons its a image sharing app where users can post and like other users images. I used VS code to write and style the code and Figma. The profect file on Figma was the source and I suppose brief as well for the project.
+
+I used my newly learned skill display grid and grid template columns to style the cards as well as the media query for mobile screens. I am still very new and very unsure of my coding skills and I am sure I made errors. My footer and mobile screen seem sloppy to me but I did my best.
+
+I included 2 pictures showing my first time using grid in action as well as the how the mobile layout turned out
+
+**Figma**
+
+- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+
+**Images**
+
+![mobile screen](./images/demo/readme-1.png)
+![display grid](./images/demo/readme-2.png)
+
+My video for project 3 {https://drive.google.com/file/d/1q9W4hf2_bpNa_3UES2A8iTj5EIKiM-gU/view?usp=drive_link}
