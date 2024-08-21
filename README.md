@@ -25,7 +25,7 @@ Responsive Design
 
 ## Video
 
-My video for project 3 {https://drive.google.com/file/d/1q9W4hf2_bpNa_3UES2A8iTj5EIKiM-gU/view?usp=drive_link}
+My video for project 3 {https://drive.google.com/file/d/1q9W4hf2_bpNa_3UES2A8iTj5EIKiM-gU/view?usp=sharing}
 
 ## Deployment
 
