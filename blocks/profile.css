@@ -70,6 +70,7 @@
   background: rgba(33, 33, 33, 1);
   font-size: 16px;
   line-height: 16px;
+  padding: 0;
 }
 .profile__edit-btn:hover {
   background-color: #45a049;
