@@ -1,6 +1,4 @@
 .footer {
-  width: 1004px;
-  height: 16px;
   padding: 60px;
 }
 
@@ -11,19 +9,15 @@
   font-weight: 400;
   line-height: 16px;
   text-align: center;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 627px) {
   .footer {
-    width: 104px;
-    height: 16px;
-    margin: 0;
     padding: 60px;
     margin: 0 auto;
   }
   .footer__copyright {
-    width: 104px;
-    height: 16px;
     align-items: center;
     margin: 0;
   }
